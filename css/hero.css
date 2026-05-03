@@ -1,5 +1,17 @@
-
-button:hover {
-    color: #ffffff;
+.hero-button {
     background-color: #4D5AE5;
+    color: #fff;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.hero-button:hover {
+    background-color: #404BBF;
+    cursor: pointer;
+}
+
+.hero-title {
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }

@@ -1,12 +1,24 @@
-#team{
+.team{
     background-color: #F4F4FD;
 }
 
-#team li {
+.team li {
     background-color: #FFFFFF;
 }
 
-#team h2, #team h3, #team p{
+.team-title {
+    color: #2E2F42;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.team-title, .team h3, .team p{
     text-align: center;
+}
+
+.team-name {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 

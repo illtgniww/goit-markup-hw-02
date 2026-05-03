@@ -1,3 +1,14 @@
-#features p {
+.features p {
     color: #434455;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+}
+
+.features h3 {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
