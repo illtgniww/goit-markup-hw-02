@@ -8,7 +8,7 @@
 
 .team-title {
     color: #2E2F42;
-    line-height: 1.5;
+    line-height: 1.11;
     letter-spacing: 0.02em;
 }
 
@@ -18,7 +18,11 @@
 
 .team-name {
     font-weight: 500;
-    line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.team-name, .team h3 {
+    color: #2e2f42;
+    line-height: 1.2;
 }
 

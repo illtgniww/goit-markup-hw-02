@@ -1,6 +1,8 @@
 .portfolio-title {
     text-align: center;
     letter-spacing: 0.02em;
+    color: #2e2f42;
+    line-height: 1.11;
 }
 
 .portfolio p {
@@ -14,4 +16,5 @@
 .portfolio h3 {
     font-weight: 500;
     color: #2E2F42;
+    line-height: 1.2;
 }
