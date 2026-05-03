@@ -1,7 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2E2F42;
-    font-weight: regular;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
@@ -10,7 +9,7 @@ body {
 }
 
 h1 {
-    font-weight: bold;
+    font-weight: 700;
     font-size: 56px;
     color: #ffffff;
     line-height: 1.07;
@@ -18,18 +17,18 @@ h1 {
 }
 
 h2 {
-    font-weight: bold;
+    font-weight: 700;
     font-size: 36px;
     ;
 }
 
 h3 {
-    font-weight: medium;
+    font-weight: 500;
     font-size: 20px;
     ;
 }
 
-#hero, #footer {
+.hero, .footer {
     background-color: #2E2F42;
 }
 

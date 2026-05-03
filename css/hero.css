@@ -6,7 +6,7 @@
     letter-spacing: 0.04em;
 }
 
-.hero-button:hover {
+.hero-button:hover, .hero-button:focus {
     background-color: #404BBF;
     cursor: pointer;
 }
