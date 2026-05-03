@@ -1,0 +1,41 @@
+* {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+body {
+    font-weight: regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 56px;
+    color: #ffffff;
+    line-height: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+    ;
+}
+
+h3 {
+    font-weight: medium;
+    font-size: 20px;
+    ;
+}
+
+#hero, #footer {
+    background-color: #2E2F42;
+}
+
+ul {
+    list-style-type: none;
+}
